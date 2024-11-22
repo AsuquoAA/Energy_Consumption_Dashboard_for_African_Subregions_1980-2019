@@ -64,8 +64,14 @@ To run this dashboard, the following libraries are required:
 - A slider is used to interactively update the energy sources by year.
 
 ### Sample Output
+
+sample 1
 ![Sample_Output1](https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.07.53.png)
+
+Sample2
 ![Sample_Output2](https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.05.44.png)
+
+Sample3
 ![Sample_Output3](https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.04.51.png)
 
 ---

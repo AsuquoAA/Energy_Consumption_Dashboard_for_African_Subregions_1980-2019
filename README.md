@@ -42,5 +42,33 @@ To run this dashboard, the following libraries are required:
 ---
 
 ## Dataset Sources
-1. <a href="Energy_Consumption_Data</a>
+
+1. <a href="https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/energy.csv">Energy_Consumption_Data</a>
 2. <a href="https://www.worldometers.info/geography/how-many-countries-in-africa/">African_Countries_Information</a>
+
+---
+
+## Process Workflow
+
+### Data Processing
+
+- The energy data is cleaned by removing unnecessary columns, replacing certain country names for consistency, and converting energy consumption values from quads to petajoules (PJ).
+- The dataset is reshaped into a pivot table for easy analysis, and missing values are filled with zeros to indicate zero energy consumption for certain years and countries.
+- The country-subregion data is cleaned and merged with the energy data, allowing the analysis of energy consumption by subregion.
+
+### Analysis
+
+- The analysis is split into five subregions: Northern Africa, Western Africa, Central Africa, Eastern Africa, and Southern Africa.
+- The total energy consumption for each subregion is calculated, and interactive visualizations are provided to display the energy sources for each subregion across different years.
+- A static plot displays the total energy consumption of each subregion from 1980 to 2019.
+- A slider is used to interactively update the energy sources by year.
+
+### Sample Output
+![Sample_Output1](https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.07.53.png)
+![Sample_Output2](https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.05.44.png)
+![Sample_Output3](https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.04.51.png)
+
+---
+
+## Acknowledgements
+I would like to express my sincere gratitude to the University of Michigan for providing me with the opportunity to develop and apply my skills through their courses. Their exceptional teaching resources have significantly contributed to the completion of this project.

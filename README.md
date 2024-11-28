@@ -35,7 +35,7 @@ To run this dashboard, the following libraries are required:
 ## How to run this project
 
 1. Clone the Repository:
-- code: git clone https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019.git
+- code: git clone https://github.com/AsuquoAA/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019.git
 2. Navigating to directory
 - code: cd Energy_Consumption_Dashboard_for_African_Subregions_1980-2019
 
@@ -43,7 +43,7 @@ To run this dashboard, the following libraries are required:
 
 ## Dataset Sources
 
-1. <a href="https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/energy.csv">Energy_Consumption_Data</a>
+1. <a href="https://github.com/AsuquoAA/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/energy.csv">Energy_Consumption_Data</a>
 2. <a href="https://www.worldometers.info/geography/how-many-countries-in-africa/">African_Countries_Information</a>
 
 ---
@@ -66,13 +66,13 @@ To run this dashboard, the following libraries are required:
 ### Sample Output
 
 **Sample 1**
-![Sample_Output1](https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.07.53.png)
+![Sample_Output1](https://github.com/AsuquoAA/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.07.53.png)
 
 **Sample 2**
-![Sample_Output2](https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.05.44.png)
+![Sample_Output2](https://github.com/AsuquoAA/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.05.44.png)
 
 **Sample 3**
-![Sample_Output3](https://github.com/Lazycodes/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.04.51.png)
+![Sample_Output3](https://github.com/AsuquoAA/Energy_Consumption_Dashboard_for_African_Subregions_1980-2019/blob/main/Screenshot%202024-11-22%20at%2022.04.51.png)
 
 ---
 
